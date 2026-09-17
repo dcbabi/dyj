@@ -1,0 +1,25 @@
+.garfield{
+    border: 2px solid rgba(37, 0, 97);
+}
+
+.bloco-um{
+    background-color:rgb(218, 194, 255);
+}
+.bloco-dois{
+    background-color:rgba(64, 4, 161, 0.589);
+}
+.head{
+    color: rgba(37, 0, 97);
+    background-color: rgba(218, 194, 255, 0.87);
+}
+
+#voltar-link{
+    color: rgb(218, 194, 255);
+}
+#voltar-link:hover{
+    color: rgb(22, 0, 56);
+}
+
+.p-footer{
+    background-color: rgb(218, 194, 255);
+}

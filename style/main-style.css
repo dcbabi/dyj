@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap');
+
+html{
+    background-color: rgb(255, 243, 228);
+}
+p{
+    font-family: 'Saira', sans-serif;
+    text-indent: 15px;
+}
+.nav{
+    background-color: rgb(165, 120, 206);
+    margin-right: auto;
+    padding: 5px 5px;
+    margin-bottom: 2rem;
+}
+
+td{
+    background-color: rgb(255, 235, 210);
+    padding: 2px 2px;
+    text-align: center;
+}
+td:hover{   
+    background-color: rgb(12, 0, 24);
+}
+
+h1{
+    font-family: 'Jersey 15', sans-serif;
+    color: rgb(37, 0, 97);
+}
+h2, h3, h4{
+    font-family: "Jacquarda Bastarda 9", serif;
+    color: rgb(218, 194, 255);
+    background-color:  rgb(79, 52, 122);
+}
+
+a{
+    color: rgb(37, 0, 97); 
+    font-family: "Mountains of Christmas", serif; 
+    font-weight: bold;  
+}
+a:hover{
+    color: rgb(164, 130, 219);
+}
+
+#img-footer{
+    border: 3px dotted rgba(37, 0, 97, 0.336);
+}
+
+.topo{
+    background-color:  rgba(37, 0, 97, 0.527);
+    color: rgb(218, 194, 255);
+}
+.topo:hover{
+    background-color: rgb(218, 194, 255);
+    color: rgba(37, 0, 97);
+}
+
+footer{
+    margin-top: 3rem;
+}
+.p-footer{
+    background-color: rgb(218, 194, 255);
+}

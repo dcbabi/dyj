@@ -1,0 +1,56 @@
+.garfield{
+    border: 2px solid rgba(37, 0, 97);
+}
+
+.bloco-j{
+    background-color: rgba(164, 130, 219, 0.76);
+}
+.jogos{
+    border: 5px double rgba(28, 0, 73, 0.678);
+}
+
+.bloco-a{
+    background-color: rgba(28, 0, 73, 0.678);
+}
+.artistas{
+    border: 5px double rgb(164, 130, 219);
+}
+
+#sotc, #rdr2, #re4r{
+    border: 3px dotted rgb(218, 194, 255);     
+} 
+#aic, #soad, #lp{
+    color: rgba(37, 0, 97);
+    background-color: rgb(218, 194, 255);  
+    border: 3px dotted rgba(37, 0, 97); 
+}
+
+.p-artistas{
+    color: rgb(218, 194, 255);
+}
+.p-jogos{
+    color: rgb(26, 0, 68);    
+}
+
+#jogos-link{
+    color: rgb(93, 36, 179);
+}
+#jogos-link:hover{
+    color: rgb(26, 0, 68);     
+}
+
+#artistas-topo{
+    background-color: rgb(218, 194, 255);
+    color: rgba(37, 0, 97);
+}
+#artistas-topo:hover{
+    background-color:  rgba(37, 0, 97, 0.753);
+    color: rgb(218, 194, 255);
+}
+
+#voltar-link{
+    color: rgb(218, 194, 255);
+}
+#voltar-link:hover{
+    color: rgb(22, 0, 56);
+}

@@ -1,0 +1,12 @@
+.garfield{
+    border: 2px solid rgba(37, 0, 97);
+}
+
+#id-garfield{
+    margin-left: 5rem;
+}
+
+.blocos{
+    background-color: rgba(218, 194, 255, 0.87);
+    color: rgba(37, 0, 97);
+}
